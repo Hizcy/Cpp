@@ -49,8 +49,8 @@ DEV-C++是一个可视化集成开发环境，用此软件可以实现C++程序�
 ### 1.2、编写第一个程序
 ```
 int main()        int main 主函数的起始声明
-{				  所有的C++程序都必须有且只有一个main()函数	
-	return 0;     而且都是从这个maim()函数开始执行的
+{		  所有的C++程序都必须有且只有一个main()函数	
+    return 0;     而且都是从这个maim()函数开始执行的
 }                 也就是说从int main()这个地方开始执行
 ```
 ![函数声明](https://github.com/Hizcy/C/blob/main/%E5%87%BD%E6%95%B0%E5%A3%B0%E6%98%8E1.png?raw=true)
